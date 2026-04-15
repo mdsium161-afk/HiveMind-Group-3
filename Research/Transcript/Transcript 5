@@ -1,0 +1,124 @@
+First Intervier
+
+A) Role & Company Context
+Interviwer : Good morning .Am I speaking with Mr P01 ?
+P01 : Yes.who are you?
+Interviwer : I am Interviwer.Good to have you on the line today sir.As i mentioned yesterday, This call will be  recorded for my university project. Is that still okay?
+P01: Yeah, totally fine. Go ahead.
+Interviwer: So, to start  you work at Grameen Phone, right? What exactly is your role there?
+P01: Yeah, I work at GP as a Junior Network Operations & Technical Support Assistant. It’s like the lowest rung of the tech operations ladder, but the workload feel intense. 
+Interviwer: What does a typical shift look like?
+P01: Usually I log in, check the overnight incident logs, review network alarm summaries, check if any escalations came in from the previous shift  and then open all the internal dashboards we monitor throughout the day.
+Interviwer: How many dashboards are we talking?
+P01: Too many. Like six I need daily and maybe four more occasionally. Some dashboards overlap, some contradict each other — that’s life.
+Interviwer: And team size?
+P01: Around 12 people, but it depends on shift. Some shifts are chill,some feel like a warzone.
+Interviwer: What kind of “warzone”?
+P01: Like, everything goes down at the same time  alarms everywhere, calls escalate, team leads shouting “check this, check that.”
+You don't even breathe properly.
+
+B) Onboarding & First Weeks 
+Interviwer: Alright, let’s go back to your early days. What was onboarding like?
+P01: Honestly? A rollercoaster. They gave us big onboarding files and said, “Read these.” No one checks if you understood anything.
+Interviwer : What was the hardest part during onboarding?
+P01: Umm… probably documentation. Like… we DO have documentation, but some of it is old. For example, when GP upgrades something — Internet pack policy, Flexiplan changes, or MyGP app feature updates — the internal docs don’t always update at the same time. The website updates first. [grameenphone.com]
+
+Interviwer: Did someone walk you through your responsibilities?
+P01: Kind of.But because seniors are super busy, you mostly learn by watching., On day one I saw like ten different tools. Absolutely overwhelming.
+Interviwer: What were the biggest learning priorities?
+P01:
+1.	Understanding how to read network alarms.
+2.	Learning how to trace customer network issues.
+3.	Knowing who to escalate to for what.
+Interviwer: Did you struggle with anything specific in the first week?
+P01: Everything. 
+But mostly the lack of a clear schedule. Some days I shadowed someone who wasn’t even doing the tasks I needed to learn.
+Interviwer: Did you ever feel like quitting?
+P01: Day three I legit Googled “jobs that don’t need talking to people.”
+But after two weeks, it slowly got better.
+Interviwer: What helped you settle in?
+P01: One senior guy ,he didn’t have to, but he explained stuff out of kindness. Without him, I swear I’d be gone.
+
+C) Finding Information & Daily 
+Interviwer: Let’s talk about finding information. You mentioned dashboards earlier.
+P01: Yeah, dashboards are like our windows into the network. But.They don't always show the same picture.
+Interviwer: What do you mean?
+P01: For example:
+One dashboard shows a region “healthy,” another shows “severe degradation.”
+So who do you trust?
+No one knows. You just cross check manually.
+Interviwer: How long does that take?
+P01: Sometimes 5 minutes. Sometimes 30 minutes. And customers don’t care — they’re like “Fix it now!”
+Interviwer: Are there internal documents to help?
+P01: Yeah, but they age like bread. By the time you read something, it’s already changed.
+Internally, updates don’t flow smoothly.
+Interviwer: What about communication inside the team?
+P01: Half the communication happens on group chats.
+If you miss like 20 messages, you miss something important.
+I once came into work and discovered a whole escalation rule changed overnight — only shared in the group chat. No official update.
+Interviwer: Sounds chaotic.
+P01: It is. Some days I feel like I’m solving puzzles instead of technical issues.
+Interviwer: What about customer interactions?
+P01:
+People sometimes call with super confusing complaints like:
+“My signal works inside kitchen but not in bedroom - fix it.”
+Or
+“My internet works but only after 3 am.”
+We try our best, but internal tools don't always tell the full picture.
+Interviwer: Does this affect your mental load?
+P01: Oh yeah. You’re constantly second guessing everything.
+“Is the tool correct?”
+“Is the customer exaggerating?”
+“Is the escalation team going to shout at me?”
+You can’t relax.
+
+D) Onboarding Workflow & Skill Growth 
+Interviwer: Let's talk skill progression. Did things improve after the first month?
+P01: Definitely. After a month, you start recognizing patterns - like common alarm types, typical outage symptoms, and peak issue times.
+Interviwer: What helped the most?
+P01: Hands on experience.
+No document can teach you what three night shifts can.
+Interviwer: But what could GP do better in onboarding?
+P01:
+•	One central learning dashboard
+•	Short videos explaining workflows
+•	A schedule like:
+Week 1: Tools
+Week 2: Escalations
+Week 3: Real tickets
+Instead of “Here are folders — good luck.”
+
+E) AI Assistant Trust 
+Interviwer: What would an AI tool need to earn your trust?
+P01: First - transparency.
+Tell me where the answer came from.
+Was it from a guideline? A senior engineer? A known pattern?
+Interviwer: Anything else?
+P01:
+•	Identify duplicate alarms.
+•	Explain incident patterns in simple language.
+•	Predict which tower might fail next.
+•	Read dashboards faster than humans
+If AI did that, I would marry it.
+Interviwer: What would make you distrust it?
+P01: Generic answers.
+Things like “check your network” . We KNOW that.
+We need specifics.
+F) Wrap-Up 
+Interviwer: What are the biggest problems in your day to day work?
+P01:
+1.	Too many tools showing different information.
+2.	Slow communication about changes.
+3.	No centralized learning path.
+4.	Internal information scattered everywhere.
+5.	Pressure from customers and senior.
+Interviwer: What does that cost you emotionally?
+P01: Stress. Real stress.
+And time — so much wasted time.
+Interviwer: If you could fix ONE thing today, what would it be?
+P01: One dashboard.
+One platform.
+One source of truth.
+That’s it. It would change everything.
+Interviwer: Thank you again. Your insights were extremely helpful.
+P01: Anytime . Hope you pass with full marks. 
