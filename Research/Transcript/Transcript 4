@@ -1,0 +1,67 @@
+[00:00] Interviewer: Hi, thanks for joining today. Before we start, is it okay if I record this interview so I can create a transcript? 
+[00:05] Participant P02: Yes, that’s completely fine with me. I’m comfortable with the recording being used for transcription and analysis. 
+[00:08] Interviewer: Thank you. To begin, what is your current job role or title? 
+[00:12] Participant P02: I’m currently working as a Software Engineer at a fintech company that is registered in Nepal. My role mainly involves developing and maintaining backend services, and occasionally collaborating on system design. 
+[00:18] Interviewer: What industry is your company in? 
+[00:21] Participant P02: The company operates in the financial technology space, with a strong focus on digital payments. We build solutions that enable online transactions, payment gateways, and integrations with financial institutions. 
+[00:25] Interviewer: Roughly how big is the company? 
+[00:28] Participant P02: It’s a mid-sized company, I would say. We have somewhere between 50 and 100 employees, so it’s big enough to have structured teams, but still small enough that people collaborate closely. 
+ 
+[02:00] Interviewer: Think about the last time you started a job or changed teams. What did the first few days or weeks look like? 
+[02:08] Participant P02: The first week was mostly focused on setup and orientation. I had to get access to various tools, repositories, and internal systems. Alongside that, I spent time trying to understand the code base and meeting team members. It was a bit overwhelming at times because there was a lot of information to absorb quickly, and not everything was clearly explained. 
+[02:20] Interviewer: In the first two weeks, what were the top three things you needed to know? 
+[02:25] Participant P02: The first thing was understanding the overall system architecture— how different components interact. The second was learning the coding standards and conventions used by the team so I could contribute properly. And the third was knowing who owns which parts of the system, so I’d know who to approach when I had questions. 
+[02:36] Interviewer: What was the hardest part of getting started? 
+[02:40] Participant P02: The most difficult part was definitely understanding the existing codebase. There wasn’t enough clear or up-to-date documentation, so I had to rely a lot on trial and error or asking teammates, which slowed me down. 
+[02:48] Interviewer: Did onboarding feel helpful or like box-ticking? 
+[02:52] Participant P02: It felt like a mix of both. Some sessions were genuinely helpful and gave me useful context, but others felt more like generic onboarding that didn’t really apply to my role or day-to-day responsibilities. 
+ 
+[05:00] Interviewer: When you need an answer at work, where do you go first? 
+[05:05] Participant P02: I usually start with Slack to ask teammates or check past conversations, and then I look at internal documentation if it exists. Those are my two main sources. 
+[05:10] Interviewer: How often do you check more than one place? 
+[05:14] Participant P02: Very often—probably around 70 to 80 percent of the time. It’s rare that I find everything I need in one place. 
+[05:20] Interviewer: What’s annoying about that? 
+[05:23] Participant P02: It really breaks my focus. I have to keep switching between tools, searching in different places, and even then I’m not guaranteed to find the right information. It makes simple tasks take longer than they should. 
+[05:30] Interviewer: Tell me about a time you couldn’t find something important. 
+[05:34] Participant P02: There was a time I couldn’t find proper API documentation for a service I needed to work with. I ended up asking multiple teammates, and it took quite a while to get the full picture. That delay pushed my work back by almost a day. [05:45] Interviewer: How do you keep track of important links or documents? 
+[05:49] Participant P02: I usually save things in my browser bookmarks, and sometimes I organize notes in Notion so I can refer back to them later. 
+[05:54] Interviewer: What’s not great about that? 
+[05:57] Participant P02: The main issue is that it’s a personal system, so it doesn’t help the rest of the team. Also, links and documents can become outdated quickly, and it’s hard to keep everything updated manually. 
+[06:05] Interviewer: If you had one home screen at work, what would you want it to show? 
+[06:10] Participant P02: I’d want it to show my tasks, recent updates, key documentation, and assigned tickets. Basically, everything I need to start working without having to search around. 
+[06:18] Interviewer: What should be accessible within a few clicks? 
+[06:21] Participant P02: Important resources like API documentation, onboarding guides, and team contacts should be very easy to access—ideally within one or two clicks. [06:27] Interviewer: How do you know if a document is correct or up to date? 
+[06:31] Participant P02: Usually I check the last updated date if it’s available. If I’m still unsure, I confirm with a senior developer or someone who is familiar with that part of the system. 
+ 
+[08:00] Interviewer: On your first day, what would have made you feel less lost? 
+[08:05] Participant P02: A structured onboarding path with clear steps would have helped a lot. Something that guides you through what to learn and do each day would reduce confusion. 
+[08:10] Interviewer: In your first week, did you know what to do each day? 
+[08:14] Participant P02: Not exactly. I had some assigned tasks, but there wasn’t a clear roadmap or plan outlining what I should focus on each day, which made it harder to stay on track. 
+[08:20] Interviewer: What makes onboarding feel personal and useful? 
+[08:24] Participant P02: When the content is tailored to my specific role and skill level. 
+Generic onboarding doesn’t help much, but role-specific guidance is much more valuable. 
+[08:30] Interviewer: What made you feel like you were on track? 
+[08:34] Participant P02: Completing smaller tasks and receiving feedback from my team lead helped a lot. It gave me confidence that I was progressing in the right direction. 
+[08:40] Interviewer: When you needed help, did you know who to ask? 
+[08:44] Participant P02: Sometimes I did, but it wasn’t always clear. There were moments when I wasn’t sure who the right person was, which caused delays. 
+ 
+[10:00] Interviewer: Have you used AI tools at work? 
+[10:04] Participant P02: Yes, I’ve used AI tools mainly for coding assistance and generating or understanding documentation. They can be quite helpful in speeding up certain tasks. 
+[10:09] Interviewer: What was good or bad about them? 
+[10:12] Participant P02: The good part is that they save a lot of time and can quickly provide suggestions or explanations. The downside is that sometimes the answers are incorrect, outdated, or too generic, so you can’t fully rely on them without verification. 
+[10:18] Interviewer: What would make you trust an AI tool? 
+[10:21] Participant P02: I would trust it more if it provided references or links to actual documentation or reliable sources, so I could verify the information myself. 
+[10:27] Interviewer: What would make you not trust it? 
+[10:30] Participant P02: If it consistently gives outdated, vague, or misleading answers, that would reduce my trust significantly. 
+[10:35] Interviewer: What questions should AI not answer? 
+[10:38] Participant P02: It shouldn’t handle sensitive company decisions or anything related to security or confidential data, as that could be risky. [10:45] Interviewer: Would you worry about privacy? 
+[10:48] Participant P02: Yes, definitely. I would be concerned about sharing internal code or company data with AI tools, especially if there’s a risk of exposure. 
+ 
+[12:00] Interviewer: To wrap up, what were the top two problems you mentioned? 
+[12:05] Participant P02: The two biggest issues were the lack of clear documentation and the fact that information is scattered across multiple tools and platforms. 
+[12:10] Interviewer: What do those problems cost you? 
+[12:13] Participant P02: They mainly cost time and reduce productivity. I spend more time searching for information than actually working on tasks. 
+[12:18] Interviewer: If you could change one thing to make starting a job easier, what would it be? 
+[12:23] Participant P02: I would introduce a centralized system that combines structured onboarding with reliable, up-to-date documentation. That would make a huge difference in helping new employees get started efficiently. 
+[12:30] Interviewer: Thank you, that’s really helpful. 
+[12:33] Participant P02: Thank you as well. I’m glad I could share my experience 
