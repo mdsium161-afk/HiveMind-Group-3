@@ -12,7 +12,7 @@ import {
 import { Ai } from '@carbon/icons-react';
 import AIDashboardTile from './components/AIDashboardTile';
 import AIAssistantInput from './components/AIAssistantInput';
-import '@carbon/react/scss/globals/scss/styles.scss';
+import '@carbon/styles/css/styles.css';
 import './App.scss';
 
 const App = () => {
