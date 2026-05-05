@@ -1,0 +1,38 @@
+// App-level layout styles
+
+.app-content {
+  padding-top: var(--cds-spacing-07);
+
+  &__heading {
+    font-size: var(--cds-heading-05-font-size);
+    font-weight: var(--cds-heading-05-font-weight);
+    color: var(--cds-text-primary);
+    margin-bottom: var(--cds-spacing-02);
+  }
+
+  &__subheading {
+    font-size: var(--cds-body-01-font-size);
+    color: var(--cds-text-secondary);
+    margin-bottom: var(--cds-spacing-06);
+  }
+
+  &__sidebar-card {
+    background: var(--cds-layer-01);
+    padding: var(--cds-spacing-05);
+    margin-bottom: var(--cds-spacing-05);
+    border-left: 3px solid var(--cds-border-subtle-01);
+
+    h3 {
+      font-size: var(--cds-heading-01-font-size);
+      font-weight: 600;
+      margin: 0 0 var(--cds-spacing-03);
+      color: var(--cds-text-primary);
+    }
+
+    p {
+      font-size: var(--cds-body-compact-01-font-size);
+      color: var(--cds-text-secondary);
+      margin: var(--cds-spacing-02) 0;
+    }
+  }
+}

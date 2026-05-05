@@ -1,0 +1,88 @@
+// AIAssistantInput — scoped styles
+
+.ai-assistant-input {
+  max-width: 720px;
+  padding: var(--cds-spacing-07);
+
+  &__header {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--cds-spacing-04);
+    margin-bottom: var(--cds-spacing-06);
+  }
+
+  &__icon {
+    color: var(--cds-interactive);
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  &__title {
+    font-size: var(--cds-heading-03-font-size);
+    font-weight: var(--cds-heading-03-font-weight);
+    color: var(--cds-text-primary);
+    margin: 0 0 var(--cds-spacing-02);
+  }
+
+  &__subtitle {
+    font-size: var(--cds-body-compact-01-font-size);
+    color: var(--cds-text-secondary);
+    margin: 0;
+  }
+
+  &__sensitivity-notice {
+    margin-bottom: var(--cds-spacing-05);
+  }
+
+  &__field-wrapper {
+    position: relative;
+    margin-bottom: var(--cds-spacing-04);
+  }
+
+  &__textarea {
+    width: 100%;
+  }
+
+  &__clear {
+    position: absolute;
+    top: var(--cds-spacing-08);
+    right: var(--cds-spacing-03);
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--cds-icon-secondary);
+    padding: 0;
+    display: flex;
+    align-items: center;
+
+    &:hover {
+      color: var(--cds-icon-primary);
+    }
+  }
+
+  &__footer {
+    display: flex;
+    align-items: center;
+    gap: var(--cds-spacing-04);
+    margin-bottom: var(--cds-spacing-04);
+  }
+
+  &__char-count {
+    font-size: var(--cds-helper-text-01-font-size);
+    color: var(--cds-text-secondary);
+  }
+
+  &__hint {
+    font-size: var(--cds-helper-text-01-font-size);
+    color: var(--cds-text-placeholder);
+    flex: 1;
+  }
+
+  &__privacy-note {
+    font-size: var(--cds-helper-text-01-font-size);
+    color: var(--cds-text-secondary);
+    border-top: 1px solid var(--cds-border-subtle-01);
+    padding-top: var(--cds-spacing-04);
+    margin: 0;
+  }
+}
